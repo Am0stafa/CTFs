@@ -41,11 +41,11 @@ This section covers solutions to binary exploitation challenges, focusing on buf
 
 ## Contributing
 
-Feel free to open issues or submit pull requests if you have suggestions for improvements or want to add your own solutions to the challenges.
+Please feel free to open issues or submit pull requests if you have suggestions for improvements or would like to add your own solutions to the challenges.
 
 ## Disclaimer
 
-These solutions are for educational purposes only. Make sure you have permission before attempting any techniques described here on systems you do not own or have explicit permission to test.
+These solutions are for educational purposes only. Ensure you have permission before attempting any techniques described here on systems you do not own or have explicit permission to test.
 
 ## License
 
